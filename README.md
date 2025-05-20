@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+I am currently pursuing a degree in Computer Science at the Federal University of Paraíba (UFPB), with a primary focus on the integration and application of Large Language Models (LLMs).
 
 
 ## 🌐 Socials:
